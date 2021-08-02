@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#home {
+    color: #FFFFFF;
+    bottom: 0;
+    background-color: cadetblue;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+.text {
+   color:aliceblue; 
+}
+marquee {
+    font-size:100;
+}
